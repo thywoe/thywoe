@@ -1,10 +1,10 @@
-# Taiwo Babalola
+# Hi there 👋
 
-## Platform Engineer | DevOps | Site Reliability Engineering
+## Taiwo Babalola | Platform Engineer, DevOps & SRE
 
-I have 5+ years of experience building and operating high-performance distributed systems, cloud platforms, and data infrastructure. I help engineering teams ship faster, improve reliability, and manage cloud costs through automation and thoughtful platform engineering.
+I have 5+ years of experience building and operating high-performance distributed systems, cloud platforms, and data infrastructure. My work focuses on Kubernetes platforms, infrastructure automation, delivery systems, observability, and reliable data pipelines.
 
-## Focus Areas
+## Engineering Areas
 
 - **Cloud and Kubernetes:** Docker, Kubernetes, EKS, GKE, AKS, Helm
 - **Infrastructure and automation:** Terraform, CDK (TypeScript, Python), Ansible, Puppet, Bash, Python
@@ -14,13 +14,9 @@ I have 5+ years of experience building and operating high-performance distribute
 - **Platform services and messaging:** Consul, Vault, Redis, Kafka
 - **Data engineering:** Airflow, Pentaho, Amazon MSK, MSK Connect, Amazon S3, ETL and data pipelines, Redshift, Hadoop
 
-## Current Focus
+## Exploring
 
-Exploring how AI, policy-driven automation, and strong developer experience practices can help platform teams reduce operational complexity and make software delivery smoother.
-
-## Beyond Engineering
-
-I enjoy dancing.
+AI-assisted operations, policy-driven automation, and developer experience for platform teams.
 
 ## Connect
 
