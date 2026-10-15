@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Taiwo Babalola profile banner](assets/9300_5_06.png)
+
 ## Taiwo Babalola | Platform Engineer, DevOps & SRE
 
 I have 5+ years of experience building and operating high-performance distributed systems, cloud platforms, and data infrastructure. My work focuses on Kubernetes platforms, infrastructure automation, delivery systems, observability, and reliable data pipelines.
