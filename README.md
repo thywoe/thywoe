@@ -1,51 +1,27 @@
-## Great to see you here
+# Taiwo Babalola
 
-# Hi, I'm Taiwo 👋, a Platform Engineer with 5+ years of experience in software development, high-performance distributed systems, big data infrastructure, and cutting-edge orchestration, helping engineering teams deploy faster, operate reliably, and spend less on cloud infrastructure
+## Platform Engineer | DevOps | Site Reliability Engineering
 
-## What I Work On 🛠️
+I have 5+ years of experience building and operating high-performance distributed systems, cloud platforms, and data infrastructure. I help engineering teams ship faster, improve reliability, and manage cloud costs through automation and thoughtful platform engineering.
 
-- Bash - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=2231A2) 
+## Focus Areas
 
-- Ansible - Puppet
+- **Cloud and Kubernetes:** Docker, Kubernetes, EKS, GKE, AKS, Helm
+- **Infrastructure and automation:** Terraform, CDK (TypeScript, Python), Ansible, Puppet, Bash, Python
+- **Networking and service platforms:** Istio, Kubernetes Gateway API, Kong, Traefik, ALB Controller
+- **CI/CD and GitOps:** Jenkins, Argo CD, GitLab CI/CD, GitHub Actions, Azure DevOps
+- **Reliability and observability:** Prometheus, Grafana, ELK, EFK, CloudWatch, Datadog, InfluxDB, incident management, SLA/SLO frameworks
+- **Platform services and messaging:** Consul, Vault, Redis, Kafka
+- **Data engineering:** Airflow, Pentaho, Amazon MSK, MSK Connect, Amazon S3, ETL and data pipelines, Redshift, Hadoop
 
-- Terraform - CDK (TypeScript, Python)
+## Current Focus
 
-- Docker -  Kubernetes  (EKS, GKE, AKE) - Helm
+Exploring how AI, policy-driven automation, and strong developer experience practices can help platform teams reduce operational complexity and make software delivery smoother.
 
-- Istio  - K8S Gateway API
+## Beyond Engineering
 
-- Kong API management - Traefik - ALB controller
+I enjoy dancing.
 
-- Jenkins - ArgoCD - GitLab CI/CD  - GitHub Actions - Azure DevOps
+## Connect
 
-- Hashicorp Consul - Hashicorp Vault
-
-- Redis - Kafka
-
-- Grafana - Prometheus - ELK - EFK - CloudWatch - DataDog - InfluxDB
-
--SLA/SLA  framework- Observabilty - Incident Management
-
-### DataOps Skills:
-
-- Airflow - Pentaho
-
-- MSK - MSK plugins - MSK connector - S3bucket
-
-- ETL DataFlow - Data Pipeline
-
-- Redshift - Hadoop cluster
-
-## Current Focus 🧠
-
-I'm exploring how platform teams can use AI, policy-driven automation, and strong developer experience principles to help engineers build and deploy software with less operational complexity.
-
-## Beyond Engineering ✨
-
-I enjoy dancing 🕺
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-babalola-93a4a6147/)
-
-[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](bamibabson@gmail.com)
+[GitHub](https://github.com/thywoe) · [LinkedIn](https://www.linkedin.com/in/taiwo-babalola-93a4a6147/) · [Email](mailto:bamibabson@gmail.com)
