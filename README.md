@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Taiwo Babalola profile banner](assets/9300_5_06.png)
+![Taiwo Babalola profile banner](assets/profile-banner.png)
 
 ## Taiwo Babalola | Platform Engineer, DevOps & SRE
 
